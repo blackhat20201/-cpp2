@@ -13,7 +13,6 @@ h=0,m=0,s=0;
 void setTime();
 void show()
 {
-cout<< h<< ":"<< m<< ":"<< s;
 }
 Time operator+(Time);
 };
